@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "id": "b54c",
+      "nome": "Maicon de Souza Lucas",
+      "login": "Maicon",
+      "email": "maiconsouzalucas@gmail.com",
+      "telefone": "(35) 997556413",
+      "cargo": "Mecanico",
+      "tipo": "Borracharia",
+      "ativo": 0
+    },
+    {
+      "id": "7ec1",
+      "nome": "Leandro Lucas",
+      "login": "f-rxfxel",
+      "email": "leandrolucas@univas.edu.br",
+      "telefone": "(35) 99899-9989",
+      "cargo": "",
+      "tipo": "aluno",
+      "ativo": 0
+    }
+  ],
+  "repositorios": [],
+  "seguidores": []
+}
